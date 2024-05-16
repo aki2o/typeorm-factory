@@ -1,9 +1,9 @@
 {
-  "author": "Jorge Bodega <jorge.bodega.f@gmail.com> (https://github.com/jorgebodega)",
+  "author": "Otsu Hiroaki <ootsuhiroaki@gmail.com> (https://github.com/aki2o)",
   "dependencies": {
     "tslib": "2.6.2"
   },
-  "description": "🌱 A delightful way to use factories in your code.",
+  "description": "cjs vertion of <https://github.com/jorgebodega/typeorm-factory>",
   "devDependencies": {
     "@faker-js/faker": "8.4.1",
     "@tsconfig/node18-strictest": "1.0.0",
@@ -35,14 +35,14 @@
   ],
   "license": "MIT",
   "main": "dist/index.js",
-  "name": "@jorgebodega/typeorm-factory",
+  "name": "@aki2o/typeorm-factory",
   "packageManager": "pnpm@8.15.5",
   "peerDependencies": {
     "typeorm": "^0.3.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jorgebodega/typeorm-factory.git"
+    "url": "https://github.com/aki2o/typeorm-factory.git"
   },
   "scripts": {
     "build": "tsc --project ./tsconfig.build.json",
@@ -60,5 +60,5 @@
     "typecheck": "tsc --noEmit"
   },
   "types": "dist/index.d.ts",
-  "version": "2.0.0"
+  "version": "2.0.1"
 }
