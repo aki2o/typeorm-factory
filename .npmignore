@@ -6,6 +6,7 @@
 .releaserc.json
 .sgcrc
 .vscode
+.tool-versions
 examples
 jest.config.ts
 src
