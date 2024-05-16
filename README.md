@@ -1,19 +1,7 @@
 <h1 align="center" style="text-align: center;">TypeORM Factory</h1>
 
 <p align="center">
-  <img alt="NPM" src="https://img.shields.io/npm/l/@jorgebodega/typeorm-factory?style=for-the-badge">
-  <a href='https://coveralls.io/github/jorgebodega/typeorm-factory'>
-    <img alt="Coveralls main branch" src="https://img.shields.io/coveralls/github/jorgebodega/typeorm-factory/main?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <b>A delightful way to use factories in your code.</b></br>
-  <span>Inspired by  <a href="https://factoryboy.readthedocs.io/en/stable/">Factory Boy</a> in Python, <a href="https://mikro-orm.io/docs/5.0/seeding#entity-factories">MikroORM seeding</a>  and the repositories from <a href="https://github.com/pleerock">pleerock</a></span></br>
-</p>
-
-<p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/jorgebodega">Jorge Bodega</a> and <a href="https://github.com/jorgebodega/typeorm-factory/graphs/contributors">contributors</a></sub>
+  cjs version of <a href="https://github.com/jorgebodega/typeorm-factory#readme">jorgebodega/typeorm-factory</a>
 </p>
 
 <br />
@@ -45,9 +33,9 @@ Before using this TypeORM extension please read the [TypeORM Getting Started](ht
 After that, install the extension. Add development flag if you are not using factories in production code.
 
 ```bash
-npm i [-D] @jorgebodega/typeorm-factory
-yarn add [-D] @jorgebodega/typeorm-factory
-pnpm add [-D] @jorgebodega/typeorm-factory
+npm i [-D] @aki2o/typeorm-factory
+yarn add [-D] @aki2o/typeorm-factory
+pnpm add [-D] @aki2o/typeorm-factory
 ```
 
 # Introduction
